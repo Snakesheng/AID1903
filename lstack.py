@@ -3,6 +3,9 @@
 重点代码
 """
 
+import os
+import sys
+
 #　自定义栈异常
 class StackError(Exception):
     pass
