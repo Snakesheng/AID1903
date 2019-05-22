@@ -2,6 +2,8 @@
 栈的顺序存储结构
 重点代码
 """
+import os  # Tom
+
 
 #　自定义栈异常
 class StackError(Exception):
