@@ -5,6 +5,9 @@
 import os  # Tom
 
 
+
+import threading  # Jame
+
 #　自定义栈异常
 class StackError(Exception):
     pass
