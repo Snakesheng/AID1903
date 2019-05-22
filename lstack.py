@@ -3,12 +3,12 @@
 重点代码
 """
 
-import os
-import sys
-
 #　自定义栈异常
 class StackError(Exception):
     pass
+
+n = 1000
+x = 8888
 
 # 创建结点类
 class Node(object):
